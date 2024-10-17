@@ -14,4 +14,4 @@ O objetivo deste notebook é fornecer uma visão geral da distribuição da CFEM
 - **Box Plot**: Analisa a distribuição dos valores mensais de CFEM por cidade.
 - **Indicadores Estatísticos**: Fornece estatísticas como o valor total distribuído, a média por cidade, o maior e menor valor, o desvio padrão, e o número de cidades beneficiadas.
 
-Os dados foram obtidos em: <a href'https://sistemas.anm.gov.br/arrecadacao/extra/relatorios/distribuicao_cfem_muni.aspx?ano=2024&uf=MG'>Página da Agência Nacional de Mineração</a>
+Os dados foram obtidos em: <a href='https://sistemas.anm.gov.br/arrecadacao/extra/relatorios/distribuicao_cfem_muni.aspx?ano=2024&uf=MG'>Página da Agência Nacional de Mineração</a>
