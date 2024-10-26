@@ -11,7 +11,7 @@ O objetivo deste notebook é fornecer uma visão geral da distribuição da CFEM
 - **Gráfico de Barras Horizontal**: Exibe as 10 cidades de Minas Gerais com maior valor total distribuído em CFEM no ano de 2024.
 - **Gráfico de Linha Temporal**: Mostra a evolução mensal da CFEM ao longo dos meses.
 - **Gráfico de Pizza Interativo**: Representa a distribuição da CFEM entre as 5 cidades mais beneficiadas.
-- **Box Plot**: Analisa a distribuição dos valores mensais de CFEM por cidade.
-- **Indicadores Estatísticos**: Fornece estatísticas como o valor total distribuído, a média por cidade, o maior e menor valor, o desvio padrão, e o número de cidades beneficiadas.
+- **Análise Estatística**: Valores estatísticos descritivos da CFEM.
+- **Mapa de Calor**: Permite uma visualização dos picos dos valores distribuídos, bem como ver o comportamento dos valores arrecadados ao longo dos meses por município.
 
 Os dados foram obtidos em: <a href='https://sistemas.anm.gov.br/arrecadacao/extra/relatorios/distribuicao_cfem_muni.aspx?ano=2024&uf=MG'>Página da Agência Nacional de Mineração</a>
